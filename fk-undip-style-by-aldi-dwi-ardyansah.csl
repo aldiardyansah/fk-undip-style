@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <summary>Style based on Faculty of Medicine of Universitas Diponegoro Paper Guideline</summary>
-    <updated>2021-08-26T13:19:24+00:00</updated>
+    <updated>2021-08-26T13:57:28+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This style is made by Aldi Dwi Ardyansah</rights>
     <link href="www.instagram.com/aldi_ardyansah/"/>
   </info>
@@ -310,8 +310,8 @@
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout delimiter=",">
-      <text variable="citation-number"/>
+    <layout font-variant="normal" vertical-align="sup" delimiter=",">
+      <text variable="citation-number" vertical-align="baseline"/>
     </layout>
   </citation>
   <bibliography et-al-min="7" et-al-use-first="6" second-field-align="flush">
